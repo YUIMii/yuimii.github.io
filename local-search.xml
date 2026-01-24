@@ -8,7 +8,7 @@
     <link href="/2026/01/24/2026.1.24/"/>
     <url>/2026/01/24/2026.1.24/</url>
     
-    <content type="html"><![CDATA[<p>测试一下。这次修了生成出特殊符号传不上去的bug，加入了可选ai概括标题，ai概括文本内容开关</p><hr>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>[!NOTE]<br><strong>AI 概括</strong>：新增AI标题生成与文本概括功能，并修复了特殊符号上传问题。<br><em>(本文摘要由 AI 生成)</em></p></blockquote><p>测试。增加了可选是否用ai生成标题&#x2F;ai概括文本内容功能，修复了ai可能生成特殊符号无法上传的bug</p><hr>]]></content>
     
     
     
